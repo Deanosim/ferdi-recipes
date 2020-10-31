@@ -1,0 +1,12 @@
+{
+  "id": "gitea",
+  "name": "Gitea",
+  "version": "1.0.0",
+  "description": "gitea",
+  "main": "index.js",
+  "author": "Deanosim <4834976+Deanosim@users.noreply.github.com>",
+  "license": "MIT",
+  "config": {
+	"hasCustomUrl": true
+  }
+}

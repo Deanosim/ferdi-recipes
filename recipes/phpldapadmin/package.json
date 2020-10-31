@@ -1,0 +1,12 @@
+{
+  "id": "phpldapadmin",
+  "name": "phpLDAPadmin",
+  "version": "1.0.0",
+  "description": "phpldapadmin",
+  "main": "index.js",
+  "author": "Deanosim <4834976+Deanosim@users.noreply.github.com>",
+  "license": "MIT",
+  "config": {
+	"hasCustomUrl": true
+  }
+}
