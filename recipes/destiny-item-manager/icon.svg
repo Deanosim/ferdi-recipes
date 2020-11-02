@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 932.2 332"
+   version="1.1"
+   id="svg10"
+   sodipodi:docname="icon.svg"
+   inkscape:export-filename="C:\Users\Deanosim\AppData\Roaming\Ferdi\recipes\dev\destiny-item-manager\icon.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
+  <metadata
+     id="metadata16">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs14" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     id="namedview12"
+     showgrid="false"
+     inkscape:zoom="1.1885861"
+     inkscape:cx="466.10001"
+     inkscape:cy="166"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg10" />
+  <g
+     fill="white"
+     id="g4">
+    <path
+       d="M379.5 62.2v42.7h170.7V233h-128v-85.4h-42.7v128.1h213.4V62.2zM899.3 62.3L827 129l-72.9-66.7H721v213.3h42.4V124.5l63.6 58.4 62.8-58.2v150.9h42.4V62.3zM635.5 62.4h42.8v213.3h-42.8z"
+       id="path2" />
+  </g>
+  <path
+     d="M128.843 165.938l32.173-32.173 32.173 32.173-32.173 32.174z"
+     fill="#f37423"
+     id="path6" />
+  <path
+     d="M161 5l-32.2 32.2L257.7 166 161 262.6 64.4 166l64.4-64.4-32.2-32.2L0 166l161 161 161.1-161z"
+     fill="#f37423"
+     id="path8" />
+</svg>

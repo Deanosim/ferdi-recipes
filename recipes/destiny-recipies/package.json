@@ -1,0 +1,12 @@
+{
+  "id": "destiny-recipies",
+  "name": "Destiny Recipies",
+  "version": "1.0.0",
+  "description": "destiny-recipies",
+  "main": "index.js",
+  "author": "Deanosim <4834976+Deanosim@users.noreply.github.com>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://destinyrecipes.com/"
+  }
+}
